@@ -1,5 +1,5 @@
 {
-  "homepage": "http://jaydeepdey03.github.io/designoflex-20BCE1419",
+  "homepage": "http://jaydeepdey03.github.io/designoflex20BCE1419",
   "name": "codeoflex",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
