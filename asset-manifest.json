@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/designoflex-20BCE1419/static/css/main.1d7007b6.css",
+    "main.js": "/designoflex-20BCE1419/static/js/main.d62b82a4.js",
+    "static/media/img.png": "/designoflex-20BCE1419/static/media/img.dd3bf417ce54d0aabe1c.png",
+    "static/media/img-3.png": "/designoflex-20BCE1419/static/media/img-3.21577e3cc783a1b7238f.png",
+    "static/media/Polygon 4.png": "/designoflex-20BCE1419/static/media/Polygon 4.60f646fef59bffb2ca28.png",
+    "static/media/Polygon 1.png": "/designoflex-20BCE1419/static/media/Polygon 1.28dce493c19e0ed33977.png",
+    "static/media/Polygon 3.png": "/designoflex-20BCE1419/static/media/Polygon 3.506f0854af905004ddaf.png",
+    "static/media/Polygon 2.png": "/designoflex-20BCE1419/static/media/Polygon 2.231d7e5d3da5406ffba6.png",
+    "static/media/img-1.png": "/designoflex-20BCE1419/static/media/img-1.749d64e3f1b71555baed.png",
+    "static/media/Polygon 6.png": "/designoflex-20BCE1419/static/media/Polygon 6.769bba2b6b16f85738f9.png",
+    "static/media/img-2.png": "/designoflex-20BCE1419/static/media/img-2.8524afe34050d3381ef3.png",
+    "static/media/img-5.png": "/designoflex-20BCE1419/static/media/img-5.442ce2f61b9fb28eb0cc.png",
+    "static/media/Polygon 5.png": "/designoflex-20BCE1419/static/media/Polygon 5.bf7b4651da1169770f70.png",
+    "static/media/img-4.png": "/designoflex-20BCE1419/static/media/img-4.1ea05b64a443186ae0cb.png",
+    "static/media/zbc-logo.png": "/designoflex-20BCE1419/static/media/zbc-logo.fa1ac47c908047cd1d7e.png",
+    "static/media/img-6.png": "/designoflex-20BCE1419/static/media/img-6.3cab10f5687ed51bd2a5.png",
+    "static/media/slick.svg": "/designoflex-20BCE1419/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/designoflex-20BCE1419/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/designoflex-20BCE1419/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/designoflex-20BCE1419/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/designoflex-20BCE1419/index.html",
+    "main.1d7007b6.css.map": "/designoflex-20BCE1419/static/css/main.1d7007b6.css.map",
+    "main.d62b82a4.js.map": "/designoflex-20BCE1419/static/js/main.d62b82a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7007b6.css",
+    "static/js/main.d62b82a4.js"
+  ]
+}
