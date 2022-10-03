@@ -6,7 +6,7 @@ const Header = () => {
         <div className=''>
             <div className='bg-space flex space-x-4 justify-around'>
                 <div className='flex flex-col justify-center items-center space-y-4 mt-20'>
-                    <p className='font-righteous text-white text-7xl font-medium'>Zero Bugs Club</p>
+                    <p className='font-righteous text-white text-7xl font-medium'>NASA</p>
                     <p className='font-righteous text-white text-3xl font-medium'>Space Division</p>
                     <p className='font-righteous text-white text-3xl font-medium'>To Infinity and Beyond</p>
                     <button class="bg-blue-500 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-full font-righteous">Get Started</button>
